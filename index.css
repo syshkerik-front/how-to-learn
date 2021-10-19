@@ -1,5 +1,6 @@
 /* подключение стороннего кода*/
 @import url(vendor/normalize.css);
+@import url(vendor/fonts/fonts.css);
 
 /* настройки страницы*/
 @import url(blocks/page/page.css);
