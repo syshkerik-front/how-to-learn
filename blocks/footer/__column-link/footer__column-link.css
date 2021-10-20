@@ -6,12 +6,12 @@
   color: white;
   display: block;
   margin: 0 0 10px;
+  transition: opacity 2s;
 }
 
-.footer__column-link:nth-of-type(3) {
+.footer__column-link:last-of-type {
   margin-bottom: 0;
 }
 .footer__column-link:hover {
-  transition: opacity 2s;
   opacity: .25;
 }
